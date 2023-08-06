@@ -1,0 +1,7 @@
+2023-08-06 08:22:03.747561 - Initialized conversion of CBT907
+2023-08-06 08:22:04.376818 - Received CBT.V505.FILE907.PDS from FILE907.XMI 
+2023-08-06 08:22:04.379545 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE907.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:22:04.380401 - Found @FILE907.txt (text/plain) in CBT.V505.FILE907.PDS, moved to PDS/@FILE907
+2023-08-06 08:22:04.380410 - Found XIXMIEX$.bin containing application/octet-stream, moved to PDS/XIXMIEX$
+2023-08-06 08:22:04.384760 - De-xmi-ed XIXMIEX@ to CBT907/docs/XIXMIEX@.pdf
+2023-08-06 08:22:04.384861 - Found XIXMIEXP.x-dosexec containing application/x-dosexec, moved to PDS/XIXMIEXP
