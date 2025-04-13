@@ -1,0 +1,6 @@
+2025-04-13 23:59:32.697367 - Received CBT.V508.FILE907.PDS from FILE907.XMI 
+2025-04-13 23:59:32.698086 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE907.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:59:32.698178 - Found @FILE907.txt (text/plain) in CBT.V508.FILE907.PDS, moved to PDS/@FILE907
+2025-04-13 23:59:32.698276 - Found XIXMIEX$.bin (application/octet-stream) in CBT.V508.FILE907.PDS, moved to PDS/XIXMIEX$
+2025-04-13 23:59:32.699589 - Found XIXMIEX@.pdf (application/pdf) in CBT.V508.FILE907.PDS, moved to docs/XIXMIEX@.pdf
+2025-04-13 23:59:32.702107 - Found XIXMIEXP.x-dosexec (application/x-dosexec) in CBT.V508.FILE907.PDS, moved to PDS/XIXMIEXP
